@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAR", "IAR.csproj", "{FE348BDB-121E-E8A1-CEEA-75AC4C370687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAR.Editor", "IAR.Editor.csproj", "{00CA63F3-5648-90EE-4614-B9F53DA6589D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE348BDB-121E-E8A1-CEEA-75AC4C370687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE348BDB-121E-E8A1-CEEA-75AC4C370687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE348BDB-121E-E8A1-CEEA-75AC4C370687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE348BDB-121E-E8A1-CEEA-75AC4C370687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CA63F3-5648-90EE-4614-B9F53DA6589D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CA63F3-5648-90EE-4614-B9F53DA6589D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CA63F3-5648-90EE-4614-B9F53DA6589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CA63F3-5648-90EE-4614-B9F53DA6589D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
